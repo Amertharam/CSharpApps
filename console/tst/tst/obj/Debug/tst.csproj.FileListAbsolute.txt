@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\tst\tst\bin\Debug\tst.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\tst\tst\bin\Debug\tst.exe
+C:\Users\amert\source\repos\cSharpApps\console\tst\tst\bin\Debug\tst.pdb
+C:\Users\amert\source\repos\cSharpApps\console\tst\tst\obj\Debug\tst.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\tst\tst\obj\Debug\tst.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\tst\tst\obj\Debug\tst.exe
+C:\Users\amert\source\repos\cSharpApps\console\tst\tst\obj\Debug\tst.pdb

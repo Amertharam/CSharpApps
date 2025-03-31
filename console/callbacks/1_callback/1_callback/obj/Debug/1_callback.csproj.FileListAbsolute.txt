@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\callbacks\1_callback\1_callback\bin\Debug\1_callback.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\callbacks\1_callback\1_callback\bin\Debug\1_callback.exe
+C:\Users\amert\source\repos\cSharpApps\console\callbacks\1_callback\1_callback\bin\Debug\1_callback.pdb
+C:\Users\amert\source\repos\cSharpApps\console\callbacks\1_callback\1_callback\obj\Debug\1_callback.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\callbacks\1_callback\1_callback\obj\Debug\1_callback.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\callbacks\1_callback\1_callback\obj\Debug\1_callback.exe
+C:\Users\amert\source\repos\cSharpApps\console\callbacks\1_callback\1_callback\obj\Debug\1_callback.pdb

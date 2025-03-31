@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\DeadLock\MonitorTryEnter\bin\Debug\MonitorTryEnter.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\DeadLock\MonitorTryEnter\bin\Debug\MonitorTryEnter.exe
+C:\Users\amert\source\repos\cSharpApps\console\DeadLock\MonitorTryEnter\bin\Debug\MonitorTryEnter.pdb
+C:\Users\amert\source\repos\cSharpApps\console\DeadLock\MonitorTryEnter\obj\Debug\MonitorTryEnter.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\DeadLock\MonitorTryEnter\obj\Debug\MonitorTryEnter.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\DeadLock\MonitorTryEnter\obj\Debug\MonitorTryEnter.exe
+C:\Users\amert\source\repos\cSharpApps\console\DeadLock\MonitorTryEnter\obj\Debug\MonitorTryEnter.pdb

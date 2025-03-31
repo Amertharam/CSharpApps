@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\1_LINQ\bin\Debug\1_LINQ.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\1_LINQ\bin\Debug\1_LINQ.exe
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\1_LINQ\bin\Debug\1_LINQ.pdb
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\1_LINQ\obj\Debug\1_LINQ.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\1_LINQ\obj\Debug\1_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\1_LINQ\obj\Debug\1_LINQ.exe
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\1_LINQ\obj\Debug\1_LINQ.pdb

@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\static\2_staticFuncCallByDelegates\2_staticFuncCallByDelegates\obj\Debug\2_staticFuncCallByDelegates.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\static\2_staticFuncCallByDelegates\2_staticFuncCallByDelegates\obj\Debug\2_staticFuncCallByDelegates.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\static\2_staticFuncCallByDelegates\2_staticFuncCallByDelegates\bin\Debug\2_staticFuncCallByDelegates.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\static\2_staticFuncCallByDelegates\2_staticFuncCallByDelegates\bin\Debug\2_staticFuncCallByDelegates.exe
+C:\Users\amert\source\repos\cSharpApps\console\static\2_staticFuncCallByDelegates\2_staticFuncCallByDelegates\bin\Debug\2_staticFuncCallByDelegates.pdb
+C:\Users\amert\source\repos\cSharpApps\console\static\2_staticFuncCallByDelegates\2_staticFuncCallByDelegates\obj\Debug\2_staticFuncCallByDelegates.exe
+C:\Users\amert\source\repos\cSharpApps\console\static\2_staticFuncCallByDelegates\2_staticFuncCallByDelegates\obj\Debug\2_staticFuncCallByDelegates.pdb

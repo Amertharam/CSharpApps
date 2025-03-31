@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\amert\source\repos\cSharpApps\console\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\amert\source\repos\cSharpApps\console\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\amert\source\repos\cSharpApps\console\Dictionary\Dictionary\obj\Debug\Dictionary.pdb

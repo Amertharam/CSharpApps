@@ -1,0 +1,16 @@
+C:\Users\amert\source\repos\cSharpApps\wpf\MVVM_App2\MVVM_App2\bin\Debug\MVVM_App2.exe.config
+C:\Users\amert\source\repos\cSharpApps\wpf\MVVM_App2\MVVM_App2\bin\Debug\MVVM_App2.exe
+C:\Users\amert\source\repos\cSharpApps\wpf\MVVM_App2\MVVM_App2\bin\Debug\MVVM_App2.pdb
+C:\Users\amert\source\repos\cSharpApps\wpf\MVVM_App2\MVVM_App2\obj\Debug\MVVM_App2.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\wpf\MVVM_App2\MVVM_App2\obj\Debug\App.g.cs
+C:\Users\amert\source\repos\cSharpApps\wpf\MVVM_App2\MVVM_App2\obj\Debug\MVVM_App2_MarkupCompile.cache
+C:\Users\amert\source\repos\cSharpApps\wpf\MVVM_App2\MVVM_App2\obj\Debug\MVVM_App2_MarkupCompile.lref
+C:\Users\amert\source\repos\cSharpApps\wpf\MVVM_App2\MVVM_App2\obj\Debug\MVVM_App2.g.resources
+C:\Users\amert\source\repos\cSharpApps\wpf\MVVM_App2\MVVM_App2\obj\Debug\MVVM_App2.Properties.Resources.resources
+C:\Users\amert\source\repos\cSharpApps\wpf\MVVM_App2\MVVM_App2\obj\Debug\MVVM_App2.csproj.GenerateResource.cache
+C:\Users\amert\source\repos\cSharpApps\wpf\MVVM_App2\MVVM_App2\obj\Debug\MVVM_App2.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\wpf\MVVM_App2\MVVM_App2\obj\Debug\MVVM_App2.exe
+C:\Users\amert\source\repos\cSharpApps\wpf\MVVM_App2\MVVM_App2\obj\Debug\MVVM_App2.pdb
+C:\Users\amert\source\repos\cSharpApps\wpf\MVVM_App2\MVVM_App2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\amert\source\repos\cSharpApps\wpf\MVVM_App2\MVVM_App2\obj\Debug\views\MainWindow.g.cs
+C:\Users\amert\source\repos\cSharpApps\wpf\MVVM_App2\MVVM_App2\obj\Debug\views\MainWindow.baml

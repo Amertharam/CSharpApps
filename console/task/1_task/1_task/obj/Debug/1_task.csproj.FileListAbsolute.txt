@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\task\1_task\1_task\bin\Debug\1_task.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\task\1_task\1_task\bin\Debug\1_task.exe
+C:\Users\amert\source\repos\cSharpApps\console\task\1_task\1_task\bin\Debug\1_task.pdb
+C:\Users\amert\source\repos\cSharpApps\console\task\1_task\1_task\obj\Debug\1_task.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\task\1_task\1_task\obj\Debug\1_task.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\task\1_task\1_task\obj\Debug\1_task.exe
+C:\Users\amert\source\repos\cSharpApps\console\task\1_task\1_task\obj\Debug\1_task.pdb

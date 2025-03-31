@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\SOLID_Principles\SingleResponsibility\obj\Debug\SingleResponsibility.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\SOLID_Principles\SingleResponsibility\obj\Debug\SingleResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\SOLID_Principles\SingleResponsibility\bin\Debug\SingleResponsibility.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\SOLID_Principles\SingleResponsibility\bin\Debug\SingleResponsibility.exe
+C:\Users\amert\source\repos\cSharpApps\console\SOLID_Principles\SingleResponsibility\bin\Debug\SingleResponsibility.pdb
+C:\Users\amert\source\repos\cSharpApps\console\SOLID_Principles\SingleResponsibility\obj\Debug\SingleResponsibility.exe
+C:\Users\amert\source\repos\cSharpApps\console\SOLID_Principles\SingleResponsibility\obj\Debug\SingleResponsibility.pdb

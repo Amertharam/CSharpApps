@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\interface\1_interface\1_interface\bin\Debug\1_interface.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\interface\1_interface\1_interface\bin\Debug\1_interface.exe
+C:\Users\amert\source\repos\cSharpApps\console\interface\1_interface\1_interface\bin\Debug\1_interface.pdb
+C:\Users\amert\source\repos\cSharpApps\console\interface\1_interface\1_interface\obj\Debug\1_interface.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\interface\1_interface\1_interface\obj\Debug\1_interface.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\interface\1_interface\1_interface\obj\Debug\1_interface.exe
+C:\Users\amert\source\repos\cSharpApps\console\interface\1_interface\1_interface\obj\Debug\1_interface.pdb

@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\FTServerApp\FTServerApp\bin\Debug\FTServerApp.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\FTServerApp\FTServerApp\bin\Debug\FTServerApp.exe
+C:\Users\amert\source\repos\cSharpApps\console\FTServerApp\FTServerApp\bin\Debug\FTServerApp.pdb
+C:\Users\amert\source\repos\cSharpApps\console\FTServerApp\FTServerApp\obj\Debug\FTServerApp.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\FTServerApp\FTServerApp\obj\Debug\FTServerApp.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\FTServerApp\FTServerApp\obj\Debug\FTServerApp.exe
+C:\Users\amert\source\repos\cSharpApps\console\FTServerApp\FTServerApp\obj\Debug\FTServerApp.pdb

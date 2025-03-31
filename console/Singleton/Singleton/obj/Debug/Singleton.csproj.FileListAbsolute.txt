@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\Singleton\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\Singleton\Singleton\bin\Debug\Singleton.exe
+C:\Users\amert\source\repos\cSharpApps\console\Singleton\Singleton\bin\Debug\Singleton.pdb
+C:\Users\amert\source\repos\cSharpApps\console\Singleton\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\Singleton\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\Singleton\Singleton\obj\Debug\Singleton.exe
+C:\Users\amert\source\repos\cSharpApps\console\Singleton\Singleton\obj\Debug\Singleton.pdb

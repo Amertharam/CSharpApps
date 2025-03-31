@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\string\2_reverse_a_sentence\2_reverse_a_sentence\bin\Debug\2_reverse_a_sentence.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\string\2_reverse_a_sentence\2_reverse_a_sentence\bin\Debug\2_reverse_a_sentence.exe
+C:\Users\amert\source\repos\cSharpApps\console\string\2_reverse_a_sentence\2_reverse_a_sentence\bin\Debug\2_reverse_a_sentence.pdb
+C:\Users\amert\source\repos\cSharpApps\console\string\2_reverse_a_sentence\2_reverse_a_sentence\obj\Debug\2_reverse_a_sentence.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\string\2_reverse_a_sentence\2_reverse_a_sentence\obj\Debug\2_reverse_a_sentence.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\string\2_reverse_a_sentence\2_reverse_a_sentence\obj\Debug\2_reverse_a_sentence.exe
+C:\Users\amert\source\repos\cSharpApps\console\string\2_reverse_a_sentence\2_reverse_a_sentence\obj\Debug\2_reverse_a_sentence.pdb

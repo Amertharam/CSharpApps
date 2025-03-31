@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\MVVM_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7931790-3735-4DAB-B892-E5C576789EB6}|MVVM_App\\MVVM_App.csproj|C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\MVVM_App\\mvvm_app\\converters\\dateconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7931790-3735-4DAB-B892-E5C576789EB6}|MVVM_App\\MVVM_App.csproj|solutionrelative:mvvm_app\\converters\\dateconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7931790-3735-4DAB-B892-E5C576789EB6}|MVVM_App\\MVVM_App.csproj|c:\\users\\amert\\source\\repos\\csharpapps\\wpf\\mvvm_app\\mvvm_app\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7931790-3735-4DAB-B892-E5C576789EB6}|MVVM_App\\MVVM_App.csproj|solutionrelative:mvvm_app\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7931790-3735-4DAB-B892-E5C576789EB6}|MVVM_App\\MVVM_App.csproj|C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\MVVM_App\\mvvm_app\\usercontrols\\listview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7931790-3735-4DAB-B892-E5C576789EB6}|MVVM_App\\MVVM_App.csproj|solutionrelative:mvvm_app\\usercontrols\\listview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7931790-3735-4DAB-B892-E5C576789EB6}|MVVM_App\\MVVM_App.csproj|c:\\users\\amert\\source\\repos\\csharpapps\\wpf\\mvvm_app\\mvvm_app\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7931790-3735-4DAB-B892-E5C576789EB6}|MVVM_App\\MVVM_App.csproj|solutionrelative:mvvm_app\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7931790-3735-4DAB-B892-E5C576789EB6}|MVVM_App\\MVVM_App.csproj|C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\MVVM_App\\mvvm_app\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7931790-3735-4DAB-B892-E5C576789EB6}|MVVM_App\\MVVM_App.csproj|solutionrelative:mvvm_app\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7931790-3735-4DAB-B892-E5C576789EB6}|MVVM_App\\MVVM_App.csproj|C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\MVVM_App\\mvvm_app\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7931790-3735-4DAB-B892-E5C576789EB6}|MVVM_App\\MVVM_App.csproj|solutionrelative:mvvm_app\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DateConverter.cs",
+              "DocumentMoniker": "C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\MVVM_App\\MVVM_App\\converters\\DateConverter.cs",
+              "RelativeDocumentMoniker": "MVVM_App\\converters\\DateConverter.cs",
+              "ToolTip": "C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\MVVM_App\\MVVM_App\\converters\\DateConverter.cs",
+              "RelativeToolTip": "MVVM_App\\converters\\DateConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:53:59.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\MVVM_App\\MVVM_App\\viewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "MVVM_App\\viewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\MVVM_App\\MVVM_App\\viewModels\\MainViewModel.cs",
+              "RelativeToolTip": "MVVM_App\\viewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T12:51:50.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\MVVM_App\\MVVM_App\\commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "MVVM_App\\commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\MVVM_App\\MVVM_App\\commands\\RelayCommand.cs",
+              "RelativeToolTip": "MVVM_App\\commands\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:54:10.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\MVVM_App\\MVVM_App\\models\\User.cs",
+              "RelativeDocumentMoniker": "MVVM_App\\models\\User.cs",
+              "ToolTip": "C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\MVVM_App\\MVVM_App\\models\\User.cs",
+              "RelativeToolTip": "MVVM_App\\models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:53:55.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListView.xaml",
+              "DocumentMoniker": "C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\MVVM_App\\MVVM_App\\userControls\\ListView.xaml",
+              "RelativeDocumentMoniker": "MVVM_App\\userControls\\ListView.xaml",
+              "ToolTip": "C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\MVVM_App\\MVVM_App\\userControls\\ListView.xaml",
+              "RelativeToolTip": "MVVM_App\\userControls\\ListView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-13T17:56:43.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "6319217b-68a6-449e-8f4d-54a045415974",
+        "Display": 0,
+        "X": 282,
+        "Y": 73,
+        "Width": 1246,
+        "Height": 741,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\MVVM_App\\MVVM_App\\views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MVVM_App\\views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\MVVM_App\\MVVM_App\\views\\MainWindow.xaml",
+              "RelativeToolTip": "MVVM_App\\views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-08T12:49:54.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

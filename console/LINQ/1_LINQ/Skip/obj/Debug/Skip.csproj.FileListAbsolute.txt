@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Skip\bin\Debug\Skip.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Skip\bin\Debug\Skip.exe
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Skip\bin\Debug\Skip.pdb
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Skip\obj\Debug\Skip.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Skip\obj\Debug\Skip.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Skip\obj\Debug\Skip.exe
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Skip\obj\Debug\Skip.pdb

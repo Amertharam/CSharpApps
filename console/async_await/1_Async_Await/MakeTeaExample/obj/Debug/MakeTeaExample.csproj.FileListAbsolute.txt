@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\async_await\1_Async_Await\MakeTeaExample\bin\Debug\MakeTeaExample.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\async_await\1_Async_Await\MakeTeaExample\bin\Debug\MakeTeaExample.exe
+C:\Users\amert\source\repos\cSharpApps\console\async_await\1_Async_Await\MakeTeaExample\bin\Debug\MakeTeaExample.pdb
+C:\Users\amert\source\repos\cSharpApps\console\async_await\1_Async_Await\MakeTeaExample\obj\Debug\MakeTeaExample.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\async_await\1_Async_Await\MakeTeaExample\obj\Debug\MakeTeaExample.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\async_await\1_Async_Await\MakeTeaExample\obj\Debug\MakeTeaExample.exe
+C:\Users\amert\source\repos\cSharpApps\console\async_await\1_Async_Await\MakeTeaExample\obj\Debug\MakeTeaExample.pdb

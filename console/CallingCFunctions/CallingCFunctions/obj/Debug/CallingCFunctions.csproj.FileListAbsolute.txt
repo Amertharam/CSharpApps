@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\CallingCFunctions\CallingCFunctions\bin\Debug\CallingCFunctions.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\CallingCFunctions\CallingCFunctions\bin\Debug\CallingCFunctions.exe
+C:\Users\amert\source\repos\cSharpApps\console\CallingCFunctions\CallingCFunctions\bin\Debug\CallingCFunctions.pdb
+C:\Users\amert\source\repos\cSharpApps\console\CallingCFunctions\CallingCFunctions\obj\Debug\CallingCFunctions.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\CallingCFunctions\CallingCFunctions\obj\Debug\CallingCFunctions.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\CallingCFunctions\CallingCFunctions\obj\Debug\CallingCFunctions.exe
+C:\Users\amert\source\repos\cSharpApps\console\CallingCFunctions\CallingCFunctions\obj\Debug\CallingCFunctions.pdb

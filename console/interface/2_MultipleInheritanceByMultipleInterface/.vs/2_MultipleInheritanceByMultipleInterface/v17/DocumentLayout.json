@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\interface\\2_MultipleInheritanceByMultipleInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D990A38-423D-4B5B-9870-C5E8B5019448}|2_MultipleInheritanceByMultipleInterface\\2_MultipleInheritanceByMultipleInterface.csproj|c:\\users\\amert\\source\\repos\\csharpapps\\console\\interface\\2_multipleinheritancebymultipleinterface\\2_multipleinheritancebymultipleinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D990A38-423D-4B5B-9870-C5E8B5019448}|2_MultipleInheritanceByMultipleInterface\\2_MultipleInheritanceByMultipleInterface.csproj|solutionrelative:2_multipleinheritancebymultipleinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\interface\\2_MultipleInheritanceByMultipleInterface\\2_MultipleInheritanceByMultipleInterface\\Program.cs",
+              "RelativeDocumentMoniker": "2_MultipleInheritanceByMultipleInterface\\Program.cs",
+              "ToolTip": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\interface\\2_MultipleInheritanceByMultipleInterface\\2_MultipleInheritanceByMultipleInterface\\Program.cs",
+              "RelativeToolTip": "2_MultipleInheritanceByMultipleInterface\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:28:07.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

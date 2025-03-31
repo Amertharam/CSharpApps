@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\string\1_reverse_a_string\1_reverse_a_string\bin\Debug\1_reverse_a_string.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\string\1_reverse_a_string\1_reverse_a_string\bin\Debug\1_reverse_a_string.exe
+C:\Users\amert\source\repos\cSharpApps\console\string\1_reverse_a_string\1_reverse_a_string\bin\Debug\1_reverse_a_string.pdb
+C:\Users\amert\source\repos\cSharpApps\console\string\1_reverse_a_string\1_reverse_a_string\obj\Debug\1_reverse_a_string.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\string\1_reverse_a_string\1_reverse_a_string\obj\Debug\1_reverse_a_string.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\string\1_reverse_a_string\1_reverse_a_string\obj\Debug\1_reverse_a_string.exe
+C:\Users\amert\source\repos\cSharpApps\console\string\1_reverse_a_string\1_reverse_a_string\obj\Debug\1_reverse_a_string.pdb

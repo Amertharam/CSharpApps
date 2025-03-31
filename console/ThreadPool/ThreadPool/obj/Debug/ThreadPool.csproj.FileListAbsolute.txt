@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\ThreadPool\ThreadPool\obj\Debug\ThreadPool.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\ThreadPool\ThreadPool\obj\Debug\ThreadPool.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\ThreadPool\ThreadPool\bin\Debug\ThreadPool.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\ThreadPool\ThreadPool\bin\Debug\ThreadPool.exe
+C:\Users\amert\source\repos\cSharpApps\console\ThreadPool\ThreadPool\bin\Debug\ThreadPool.pdb
+C:\Users\amert\source\repos\cSharpApps\console\ThreadPool\ThreadPool\obj\Debug\ThreadPool.exe
+C:\Users\amert\source\repos\cSharpApps\console\ThreadPool\ThreadPool\obj\Debug\ThreadPool.pdb

@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\SOLID_Principles\SOLID_Principles\bin\Debug\SOLID_Principles.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\SOLID_Principles\SOLID_Principles\bin\Debug\SOLID_Principles.exe
+C:\Users\amert\source\repos\cSharpApps\console\SOLID_Principles\SOLID_Principles\bin\Debug\SOLID_Principles.pdb
+C:\Users\amert\source\repos\cSharpApps\console\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.exe
+C:\Users\amert\source\repos\cSharpApps\console\SOLID_Principles\SOLID_Principles\obj\Debug\SOLID_Principles.pdb

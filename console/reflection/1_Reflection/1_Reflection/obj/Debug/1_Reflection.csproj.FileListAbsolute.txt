@@ -1,0 +1,11 @@
+C:\Users\amert\source\repos\cSharpApps\console\reflection\1_Reflection\1_Reflection\bin\Debug\1_Reflection.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\reflection\1_Reflection\1_Reflection\bin\Debug\1_Reflection.exe
+C:\Users\amert\source\repos\cSharpApps\console\reflection\1_Reflection\1_Reflection\bin\Debug\1_Reflection.pdb
+C:\Users\amert\source\repos\cSharpApps\console\reflection\1_Reflection\1_Reflection\bin\Debug\_3rdPartyDLL.exe
+C:\Users\amert\source\repos\cSharpApps\console\reflection\1_Reflection\1_Reflection\bin\Debug\_3rdPartyDLL.pdb
+C:\Users\amert\source\repos\cSharpApps\console\reflection\1_Reflection\1_Reflection\bin\Debug\_3rdPartyDLL.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\reflection\1_Reflection\1_Reflection\obj\Debug\1_Reflection.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\reflection\1_Reflection\1_Reflection\obj\Debug\1_Reflection.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\reflection\1_Reflection\1_Reflection\obj\Debug\1_Reflection.exe
+C:\Users\amert\source\repos\cSharpApps\console\reflection\1_Reflection\1_Reflection\obj\Debug\1_Reflection.pdb
+C:\Users\amert\source\repos\cSharpApps\console\reflection\1_Reflection\1_Reflection\obj\Debug\1_Reflec.EFE462F7.Up2Date

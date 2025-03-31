@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Take\bin\Debug\Take.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Take\bin\Debug\Take.exe
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Take\bin\Debug\Take.pdb
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Take\obj\Debug\Take.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Take\obj\Debug\Take.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Take\obj\Debug\Take.exe
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Take\obj\Debug\Take.pdb

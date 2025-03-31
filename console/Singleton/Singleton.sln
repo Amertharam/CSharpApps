@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{F159F17D-1492-4EAE-9AA6-83FFE49D44F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Non_Singleton_To_Singleton", "Non_Singleton_To_Singleton\Non_Singleton_To_Singleton.csproj", "{6B5114E0-B04E-409E-B4EC-585D1198BEEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F159F17D-1492-4EAE-9AA6-83FFE49D44F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F159F17D-1492-4EAE-9AA6-83FFE49D44F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F159F17D-1492-4EAE-9AA6-83FFE49D44F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F159F17D-1492-4EAE-9AA6-83FFE49D44F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B5114E0-B04E-409E-B4EC-585D1198BEEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B5114E0-B04E-409E-B4EC-585D1198BEEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B5114E0-B04E-409E-B4EC-585D1198BEEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B5114E0-B04E-409E-B4EC-585D1198BEEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06D50E14-B83E-44E9-BA8E-6CC700816390}
+	EndGlobalSection
+EndGlobal

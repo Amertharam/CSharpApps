@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Aggregate\bin\Debug\Aggregate.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Aggregate\bin\Debug\Aggregate.exe
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Aggregate\bin\Debug\Aggregate.pdb
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Aggregate\obj\Debug\Aggregate.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Aggregate\obj\Debug\Aggregate.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Aggregate\obj\Debug\Aggregate.exe
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Aggregate\obj\Debug\Aggregate.pdb

@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\MethodHiding\MethodHiding\bin\Debug\MethodHiding.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\MethodHiding\MethodHiding\bin\Debug\MethodHiding.exe
+C:\Users\amert\source\repos\cSharpApps\console\MethodHiding\MethodHiding\bin\Debug\MethodHiding.pdb
+C:\Users\amert\source\repos\cSharpApps\console\MethodHiding\MethodHiding\obj\Debug\MethodHiding.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\MethodHiding\MethodHiding\obj\Debug\MethodHiding.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\MethodHiding\MethodHiding\obj\Debug\MethodHiding.exe
+C:\Users\amert\source\repos\cSharpApps\console\MethodHiding\MethodHiding\obj\Debug\MethodHiding.pdb

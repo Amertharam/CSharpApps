@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\Singleton\Non_Singleton_To_Singleton\bin\Debug\Non_Singleton_To_Singleton.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\Singleton\Non_Singleton_To_Singleton\bin\Debug\Non_Singleton_To_Singleton.exe
+C:\Users\amert\source\repos\cSharpApps\console\Singleton\Non_Singleton_To_Singleton\bin\Debug\Non_Singleton_To_Singleton.pdb
+C:\Users\amert\source\repos\cSharpApps\console\Singleton\Non_Singleton_To_Singleton\obj\Debug\Non_Singleton_To_Singleton.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\Singleton\Non_Singleton_To_Singleton\obj\Debug\Non_Singleton_To_Singleton.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\Singleton\Non_Singleton_To_Singleton\obj\Debug\Non_Singleton_To_Singleton.exe
+C:\Users\amert\source\repos\cSharpApps\console\Singleton\Non_Singleton_To_Singleton\obj\Debug\Non_Singleton_To_Singleton.pdb

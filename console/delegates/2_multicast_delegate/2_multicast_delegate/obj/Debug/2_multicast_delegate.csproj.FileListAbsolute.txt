@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\delegates\2_multicast_delegate\2_multicast_delegate\bin\Debug\2_multicast_delegate.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\delegates\2_multicast_delegate\2_multicast_delegate\bin\Debug\2_multicast_delegate.exe
+C:\Users\amert\source\repos\cSharpApps\console\delegates\2_multicast_delegate\2_multicast_delegate\bin\Debug\2_multicast_delegate.pdb
+C:\Users\amert\source\repos\cSharpApps\console\delegates\2_multicast_delegate\2_multicast_delegate\obj\Debug\2_multicast_delegate.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\delegates\2_multicast_delegate\2_multicast_delegate\obj\Debug\2_multicast_delegate.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\delegates\2_multicast_delegate\2_multicast_delegate\obj\Debug\2_multicast_delegate.exe
+C:\Users\amert\source\repos\cSharpApps\console\delegates\2_multicast_delegate\2_multicast_delegate\obj\Debug\2_multicast_delegate.pdb

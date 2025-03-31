@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\reflection\1_Reflection\_3rdPartyDLL\bin\Debug\_3rdPartyDLL.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\reflection\1_Reflection\_3rdPartyDLL\bin\Debug\_3rdPartyDLL.exe
+C:\Users\amert\source\repos\cSharpApps\console\reflection\1_Reflection\_3rdPartyDLL\bin\Debug\_3rdPartyDLL.pdb
+C:\Users\amert\source\repos\cSharpApps\console\reflection\1_Reflection\_3rdPartyDLL\obj\Debug\_3rdPartyDLL.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\reflection\1_Reflection\_3rdPartyDLL\obj\Debug\_3rdPartyDLL.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\reflection\1_Reflection\_3rdPartyDLL\obj\Debug\_3rdPartyDLL.exe
+C:\Users\amert\source\repos\cSharpApps\console\reflection\1_Reflection\_3rdPartyDLL\obj\Debug\_3rdPartyDLL.pdb

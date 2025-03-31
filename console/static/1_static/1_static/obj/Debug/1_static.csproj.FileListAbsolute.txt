@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\static\1_static\1_static\bin\Debug\1_static.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\static\1_static\1_static\bin\Debug\1_static.exe
+C:\Users\amert\source\repos\cSharpApps\console\static\1_static\1_static\bin\Debug\1_static.pdb
+C:\Users\amert\source\repos\cSharpApps\console\static\1_static\1_static\obj\Debug\1_static.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\static\1_static\1_static\obj\Debug\1_static.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\static\1_static\1_static\obj\Debug\1_static.exe
+C:\Users\amert\source\repos\cSharpApps\console\static\1_static\1_static\obj\Debug\1_static.pdb

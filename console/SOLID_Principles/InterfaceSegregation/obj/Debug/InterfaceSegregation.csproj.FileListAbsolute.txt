@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\SOLID_Principles\InterfaceSegregation\bin\Debug\InterfaceSegregation.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\SOLID_Principles\InterfaceSegregation\bin\Debug\InterfaceSegregation.exe
+C:\Users\amert\source\repos\cSharpApps\console\SOLID_Principles\InterfaceSegregation\bin\Debug\InterfaceSegregation.pdb
+C:\Users\amert\source\repos\cSharpApps\console\SOLID_Principles\InterfaceSegregation\obj\Debug\InterfaceSegregation.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\SOLID_Principles\InterfaceSegregation\obj\Debug\InterfaceSegregation.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\SOLID_Principles\InterfaceSegregation\obj\Debug\InterfaceSegregation.exe
+C:\Users\amert\source\repos\cSharpApps\console\SOLID_Principles\InterfaceSegregation\obj\Debug\InterfaceSegregation.pdb

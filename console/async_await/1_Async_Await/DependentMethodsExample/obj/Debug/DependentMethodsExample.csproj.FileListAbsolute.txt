@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\async_await\1_Async_Await\DependentMethodsExample\bin\Debug\DependentMethodsExample.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\async_await\1_Async_Await\DependentMethodsExample\bin\Debug\DependentMethodsExample.exe
+C:\Users\amert\source\repos\cSharpApps\console\async_await\1_Async_Await\DependentMethodsExample\bin\Debug\DependentMethodsExample.pdb
+C:\Users\amert\source\repos\cSharpApps\console\async_await\1_Async_Await\DependentMethodsExample\obj\Debug\DependentMethodsExample.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\async_await\1_Async_Await\DependentMethodsExample\obj\Debug\DependentMethodsExample.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\async_await\1_Async_Await\DependentMethodsExample\obj\Debug\DependentMethodsExample.exe
+C:\Users\amert\source\repos\cSharpApps\console\async_await\1_Async_Await\DependentMethodsExample\obj\Debug\DependentMethodsExample.pdb

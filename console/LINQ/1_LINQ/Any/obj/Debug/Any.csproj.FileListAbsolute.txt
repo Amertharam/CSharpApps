@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Any\bin\Debug\Any.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Any\bin\Debug\Any.exe
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Any\bin\Debug\Any.pdb
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Any\obj\Debug\Any.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Any\obj\Debug\Any.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Any\obj\Debug\Any.exe
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Any\obj\Debug\Any.pdb

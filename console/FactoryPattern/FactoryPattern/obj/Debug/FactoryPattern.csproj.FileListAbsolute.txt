@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe
+C:\Users\amert\source\repos\cSharpApps\console\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.pdb
+C:\Users\amert\source\repos\cSharpApps\console\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
+C:\Users\amert\source\repos\cSharpApps\console\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb

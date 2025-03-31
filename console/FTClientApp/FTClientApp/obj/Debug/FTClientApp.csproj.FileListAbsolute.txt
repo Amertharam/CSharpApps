@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\FTClientApp\FTClientApp\bin\Debug\FTClientApp.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\FTClientApp\FTClientApp\bin\Debug\FTClientApp.exe
+C:\Users\amert\source\repos\cSharpApps\console\FTClientApp\FTClientApp\bin\Debug\FTClientApp.pdb
+C:\Users\amert\source\repos\cSharpApps\console\FTClientApp\FTClientApp\obj\Debug\FTClientApp.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\FTClientApp\FTClientApp\obj\Debug\FTClientApp.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\FTClientApp\FTClientApp\obj\Debug\FTClientApp.exe
+C:\Users\amert\source\repos\cSharpApps\console\FTClientApp\FTClientApp\obj\Debug\FTClientApp.pdb

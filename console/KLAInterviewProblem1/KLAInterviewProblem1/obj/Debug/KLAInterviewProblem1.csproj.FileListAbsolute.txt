@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\KLAInterviewProblem1\KLAInterviewProblem1\bin\Debug\KLAInterviewProblem1.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\KLAInterviewProblem1\KLAInterviewProblem1\bin\Debug\KLAInterviewProblem1.exe
+C:\Users\amert\source\repos\cSharpApps\console\KLAInterviewProblem1\KLAInterviewProblem1\bin\Debug\KLAInterviewProblem1.pdb
+C:\Users\amert\source\repos\cSharpApps\console\KLAInterviewProblem1\KLAInterviewProblem1\obj\Debug\KLAInterviewProblem1.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\KLAInterviewProblem1\KLAInterviewProblem1\obj\Debug\KLAInterviewProblem1.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\KLAInterviewProblem1\KLAInterviewProblem1\obj\Debug\KLAInterviewProblem1.exe
+C:\Users\amert\source\repos\cSharpApps\console\KLAInterviewProblem1\KLAInterviewProblem1\obj\Debug\KLAInterviewProblem1.pdb

@@ -1,0 +1,14 @@
+C:\Users\amert\source\repos\cSharpApps\console\string\1_Async_Await\1_Async_Await\bin\Debug\1_Async_Await.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\string\1_Async_Await\1_Async_Await\bin\Debug\1_Async_Await.exe
+C:\Users\amert\source\repos\cSharpApps\console\string\1_Async_Await\1_Async_Await\bin\Debug\1_Async_Await.pdb
+C:\Users\amert\source\repos\cSharpApps\console\string\1_Async_Await\1_Async_Await\obj\Debug\1_Async_Await.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\string\1_Async_Await\1_Async_Await\obj\Debug\1_Async_Await.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\string\1_Async_Await\1_Async_Await\obj\Debug\1_Async_Await.exe
+C:\Users\amert\source\repos\cSharpApps\console\string\1_Async_Await\1_Async_Await\obj\Debug\1_Async_Await.pdb
+C:\Users\amert\source\repos\cSharpApps\console\async_await\1_Async_Await\1_Async_Await\bin\Debug\1_Async_Await.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\async_await\1_Async_Await\1_Async_Await\bin\Debug\1_Async_Await.exe
+C:\Users\amert\source\repos\cSharpApps\console\async_await\1_Async_Await\1_Async_Await\bin\Debug\1_Async_Await.pdb
+C:\Users\amert\source\repos\cSharpApps\console\async_await\1_Async_Await\1_Async_Await\obj\Debug\1_Async_Await.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\async_await\1_Async_Await\1_Async_Await\obj\Debug\1_Async_Await.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\async_await\1_Async_Await\1_Async_Await\obj\Debug\1_Async_Await.exe
+C:\Users\amert\source\repos\cSharpApps\console\async_await\1_Async_Await\1_Async_Await\obj\Debug\1_Async_Await.pdb

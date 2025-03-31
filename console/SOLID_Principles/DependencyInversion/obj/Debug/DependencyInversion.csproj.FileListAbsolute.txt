@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\SOLID_Principles\DependencyInversion\bin\Debug\DependencyInversion.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\SOLID_Principles\DependencyInversion\bin\Debug\DependencyInversion.exe
+C:\Users\amert\source\repos\cSharpApps\console\SOLID_Principles\DependencyInversion\bin\Debug\DependencyInversion.pdb
+C:\Users\amert\source\repos\cSharpApps\console\SOLID_Principles\DependencyInversion\obj\Debug\DependencyInversion.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\SOLID_Principles\DependencyInversion\obj\Debug\DependencyInversion.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\SOLID_Principles\DependencyInversion\obj\Debug\DependencyInversion.exe
+C:\Users\amert\source\repos\cSharpApps\console\SOLID_Principles\DependencyInversion\obj\Debug\DependencyInversion.pdb

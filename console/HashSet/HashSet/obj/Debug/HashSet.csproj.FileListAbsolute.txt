@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\HashSet\HashSet\bin\Debug\HashSet.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\HashSet\HashSet\bin\Debug\HashSet.exe
+C:\Users\amert\source\repos\cSharpApps\console\HashSet\HashSet\bin\Debug\HashSet.pdb
+C:\Users\amert\source\repos\cSharpApps\console\HashSet\HashSet\obj\Debug\HashSet.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\HashSet\HashSet\obj\Debug\HashSet.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\HashSet\HashSet\obj\Debug\HashSet.exe
+C:\Users\amert\source\repos\cSharpApps\console\HashSet\HashSet\obj\Debug\HashSet.pdb

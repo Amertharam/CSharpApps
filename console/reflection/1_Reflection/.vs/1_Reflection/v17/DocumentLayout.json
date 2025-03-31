@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\reflection\\1_Reflection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3809760A-1794-4CDD-9086-B47BB7B692B6}|1_Reflection\\1_Reflection.csproj|C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\reflection\\1_Reflection\\1_reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3809760A-1794-4CDD-9086-B47BB7B692B6}|1_Reflection\\1_Reflection.csproj|solutionrelative:1_reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C119A4D6-B59A-4CFA-80D6-6E90999100A2}|_3rdPartyDLL\\_3rdPartyDLL.csproj|c:\\users\\amert\\source\\repos\\csharpapps\\console\\reflection\\1_reflection\\_3rdpartydll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C119A4D6-B59A-4CFA-80D6-6E90999100A2}|_3rdPartyDLL\\_3rdPartyDLL.csproj|solutionrelative:_3rdpartydll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\reflection\\1_Reflection\\_3rdPartyDLL\\Program.cs",
+              "RelativeDocumentMoniker": "_3rdPartyDLL\\Program.cs",
+              "ToolTip": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\reflection\\1_Reflection\\_3rdPartyDLL\\Program.cs",
+              "RelativeToolTip": "_3rdPartyDLL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:58:24.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\reflection\\1_Reflection\\1_Reflection\\Program.cs",
+              "RelativeDocumentMoniker": "1_Reflection\\Program.cs",
+              "ToolTip": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\reflection\\1_Reflection\\1_Reflection\\Program.cs",
+              "RelativeToolTip": "1_Reflection\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA0wBkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:55:42.371Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

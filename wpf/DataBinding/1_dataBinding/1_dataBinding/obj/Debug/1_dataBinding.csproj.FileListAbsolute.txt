@@ -1,0 +1,15 @@
+C:\Users\amert\source\repos\cSharpApps\wpf\DataBinding\1_dataBinding\1_dataBinding\bin\Debug\1_dataBinding.exe.config
+C:\Users\amert\source\repos\cSharpApps\wpf\DataBinding\1_dataBinding\1_dataBinding\bin\Debug\1_dataBinding.exe
+C:\Users\amert\source\repos\cSharpApps\wpf\DataBinding\1_dataBinding\1_dataBinding\bin\Debug\1_dataBinding.pdb
+C:\Users\amert\source\repos\cSharpApps\wpf\DataBinding\1_dataBinding\1_dataBinding\obj\Debug\1_dataBinding.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\wpf\DataBinding\1_dataBinding\1_dataBinding\obj\Debug\MainWindow.g.cs
+C:\Users\amert\source\repos\cSharpApps\wpf\DataBinding\1_dataBinding\1_dataBinding\obj\Debug\App.g.cs
+C:\Users\amert\source\repos\cSharpApps\wpf\DataBinding\1_dataBinding\1_dataBinding\obj\Debug\1_dataBinding_MarkupCompile.cache
+C:\Users\amert\source\repos\cSharpApps\wpf\DataBinding\1_dataBinding\1_dataBinding\obj\Debug\1_dataBinding_MarkupCompile.lref
+C:\Users\amert\source\repos\cSharpApps\wpf\DataBinding\1_dataBinding\1_dataBinding\obj\Debug\MainWindow.baml
+C:\Users\amert\source\repos\cSharpApps\wpf\DataBinding\1_dataBinding\1_dataBinding\obj\Debug\1_dataBinding.g.resources
+C:\Users\amert\source\repos\cSharpApps\wpf\DataBinding\1_dataBinding\1_dataBinding\obj\Debug\_1_dataBinding.Properties.Resources.resources
+C:\Users\amert\source\repos\cSharpApps\wpf\DataBinding\1_dataBinding\1_dataBinding\obj\Debug\1_dataBinding.csproj.GenerateResource.cache
+C:\Users\amert\source\repos\cSharpApps\wpf\DataBinding\1_dataBinding\1_dataBinding\obj\Debug\1_dataBinding.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\wpf\DataBinding\1_dataBinding\1_dataBinding\obj\Debug\1_dataBinding.exe
+C:\Users\amert\source\repos\cSharpApps\wpf\DataBinding\1_dataBinding\1_dataBinding\obj\Debug\1_dataBinding.pdb

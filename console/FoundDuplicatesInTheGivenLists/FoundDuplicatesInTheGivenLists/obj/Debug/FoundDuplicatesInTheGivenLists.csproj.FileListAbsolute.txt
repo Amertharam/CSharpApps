@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\FoundDuplicatesInTheGivenLists\FoundDuplicatesInTheGivenLists\bin\Debug\FoundDuplicatesInTheGivenLists.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\FoundDuplicatesInTheGivenLists\FoundDuplicatesInTheGivenLists\bin\Debug\FoundDuplicatesInTheGivenLists.exe
+C:\Users\amert\source\repos\cSharpApps\console\FoundDuplicatesInTheGivenLists\FoundDuplicatesInTheGivenLists\bin\Debug\FoundDuplicatesInTheGivenLists.pdb
+C:\Users\amert\source\repos\cSharpApps\console\FoundDuplicatesInTheGivenLists\FoundDuplicatesInTheGivenLists\obj\Debug\FoundDuplicatesInTheGivenLists.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\FoundDuplicatesInTheGivenLists\FoundDuplicatesInTheGivenLists\obj\Debug\FoundDuplicatesInTheGivenLists.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\FoundDuplicatesInTheGivenLists\FoundDuplicatesInTheGivenLists\obj\Debug\FoundDuplicatesInTheGivenLists.exe
+C:\Users\amert\source\repos\cSharpApps\console\FoundDuplicatesInTheGivenLists\FoundDuplicatesInTheGivenLists\obj\Debug\FoundDuplicatesInTheGivenLists.pdb

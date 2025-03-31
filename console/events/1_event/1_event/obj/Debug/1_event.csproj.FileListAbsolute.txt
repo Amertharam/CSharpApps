@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\events\1_event\1_event\bin\Debug\1_event.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\events\1_event\1_event\bin\Debug\1_event.exe
+C:\Users\amert\source\repos\cSharpApps\console\events\1_event\1_event\bin\Debug\1_event.pdb
+C:\Users\amert\source\repos\cSharpApps\console\events\1_event\1_event\obj\Debug\1_event.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\events\1_event\1_event\obj\Debug\1_event.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\events\1_event\1_event\obj\Debug\1_event.exe
+C:\Users\amert\source\repos\cSharpApps\console\events\1_event\1_event\obj\Debug\1_event.pdb

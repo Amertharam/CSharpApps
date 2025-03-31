@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\string\\2_reverse_a_sentence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1214BBFE-B124-4AF2-8C46-64D30B74CD67}|2_reverse_a_sentence\\2_reverse_a_sentence.csproj|c:\\users\\amert\\source\\repos\\csharpapps\\console\\string\\2_reverse_a_sentence\\2_reverse_a_sentence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1214BBFE-B124-4AF2-8C46-64D30B74CD67}|2_reverse_a_sentence\\2_reverse_a_sentence.csproj|solutionrelative:2_reverse_a_sentence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\string\\2_reverse_a_sentence\\2_reverse_a_sentence\\Program.cs",
+              "RelativeDocumentMoniker": "2_reverse_a_sentence\\Program.cs",
+              "ToolTip": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\string\\2_reverse_a_sentence\\2_reverse_a_sentence\\Program.cs",
+              "RelativeToolTip": "2_reverse_a_sentence\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA0wBQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T10:41:23.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

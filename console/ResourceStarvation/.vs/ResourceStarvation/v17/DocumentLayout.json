@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\ResourceStarvation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA3FE86-71DD-4C89-BB61-F12A0E0E9173}|ResourceStarvation\\ResourceStarvation.csproj|c:\\users\\amert\\source\\repos\\csharpapps\\console\\resourcestarvation\\resourcestarvation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA3FE86-71DD-4C89-BB61-F12A0E0E9173}|ResourceStarvation\\ResourceStarvation.csproj|solutionrelative:resourcestarvation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\ResourceStarvation\\ResourceStarvation\\Program.cs",
+              "RelativeDocumentMoniker": "ResourceStarvation\\Program.cs",
+              "ToolTip": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\ResourceStarvation\\ResourceStarvation\\Program.cs",
+              "RelativeToolTip": "ResourceStarvation\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwCYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T06:52:13.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

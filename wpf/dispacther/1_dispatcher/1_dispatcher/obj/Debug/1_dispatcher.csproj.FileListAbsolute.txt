@@ -1,0 +1,15 @@
+C:\Users\amert\source\repos\cSharpApps\wpf\dispacther\1_dispatcher\1_dispatcher\bin\Debug\1_dispatcher.exe.config
+C:\Users\amert\source\repos\cSharpApps\wpf\dispacther\1_dispatcher\1_dispatcher\bin\Debug\1_dispatcher.exe
+C:\Users\amert\source\repos\cSharpApps\wpf\dispacther\1_dispatcher\1_dispatcher\bin\Debug\1_dispatcher.pdb
+C:\Users\amert\source\repos\cSharpApps\wpf\dispacther\1_dispatcher\1_dispatcher\obj\Debug\1_dispatcher.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\wpf\dispacther\1_dispatcher\1_dispatcher\obj\Debug\MainWindow.g.cs
+C:\Users\amert\source\repos\cSharpApps\wpf\dispacther\1_dispatcher\1_dispatcher\obj\Debug\App.g.cs
+C:\Users\amert\source\repos\cSharpApps\wpf\dispacther\1_dispatcher\1_dispatcher\obj\Debug\1_dispatcher_MarkupCompile.cache
+C:\Users\amert\source\repos\cSharpApps\wpf\dispacther\1_dispatcher\1_dispatcher\obj\Debug\1_dispatcher_MarkupCompile.lref
+C:\Users\amert\source\repos\cSharpApps\wpf\dispacther\1_dispatcher\1_dispatcher\obj\Debug\MainWindow.baml
+C:\Users\amert\source\repos\cSharpApps\wpf\dispacther\1_dispatcher\1_dispatcher\obj\Debug\1_dispatcher.g.resources
+C:\Users\amert\source\repos\cSharpApps\wpf\dispacther\1_dispatcher\1_dispatcher\obj\Debug\_1_dispatcher.Properties.Resources.resources
+C:\Users\amert\source\repos\cSharpApps\wpf\dispacther\1_dispatcher\1_dispatcher\obj\Debug\1_dispatcher.csproj.GenerateResource.cache
+C:\Users\amert\source\repos\cSharpApps\wpf\dispacther\1_dispatcher\1_dispatcher\obj\Debug\1_dispatcher.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\wpf\dispacther\1_dispatcher\1_dispatcher\obj\Debug\1_dispatcher.exe
+C:\Users\amert\source\repos\cSharpApps\wpf\dispacther\1_dispatcher\1_dispatcher\obj\Debug\1_dispatcher.pdb

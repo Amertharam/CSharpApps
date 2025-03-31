@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\All\bin\Debug\All.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\All\bin\Debug\All.exe
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\All\bin\Debug\All.pdb
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\All\obj\Debug\All.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\All\obj\Debug\All.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\All\obj\Debug\All.exe
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\All\obj\Debug\All.pdb

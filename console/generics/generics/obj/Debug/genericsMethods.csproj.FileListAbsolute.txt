@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\generics\generics\bin\Debug\generics.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\generics\generics\bin\Debug\generics.exe
+C:\Users\amert\source\repos\cSharpApps\console\generics\generics\bin\Debug\generics.pdb
+C:\Users\amert\source\repos\cSharpApps\console\generics\generics\obj\Debug\genericsMethods.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\generics\generics\obj\Debug\genericsMethods.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\generics\generics\obj\Debug\generics.exe
+C:\Users\amert\source\repos\cSharpApps\console\generics\generics\obj\Debug\generics.pdb

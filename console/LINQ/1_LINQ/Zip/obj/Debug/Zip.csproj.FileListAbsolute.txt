@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Zip\bin\Debug\Zip.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Zip\bin\Debug\Zip.exe
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Zip\bin\Debug\Zip.pdb
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Zip\obj\Debug\Zip.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Zip\obj\Debug\Zip.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Zip\obj\Debug\Zip.exe
+C:\Users\amert\source\repos\cSharpApps\console\LINQ\1_LINQ\Zip\obj\Debug\Zip.pdb

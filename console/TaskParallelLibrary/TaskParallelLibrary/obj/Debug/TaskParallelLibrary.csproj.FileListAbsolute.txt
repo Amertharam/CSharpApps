@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\TaskParallelLibrary\TaskParallelLibrary\bin\Debug\TaskParallelLibrary.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\TaskParallelLibrary\TaskParallelLibrary\bin\Debug\TaskParallelLibrary.exe
+C:\Users\amert\source\repos\cSharpApps\console\TaskParallelLibrary\TaskParallelLibrary\bin\Debug\TaskParallelLibrary.pdb
+C:\Users\amert\source\repos\cSharpApps\console\TaskParallelLibrary\TaskParallelLibrary\obj\Debug\TaskParallelLibrary.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\TaskParallelLibrary\TaskParallelLibrary\obj\Debug\TaskParallelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\TaskParallelLibrary\TaskParallelLibrary\obj\Debug\TaskParallelLibrary.exe
+C:\Users\amert\source\repos\cSharpApps\console\TaskParallelLibrary\TaskParallelLibrary\obj\Debug\TaskParallelLibrary.pdb

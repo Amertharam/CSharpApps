@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\dispose\1_Dispose\1_Dispose\obj\Debug\1_Dispose.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\dispose\1_Dispose\1_Dispose\obj\Debug\1_Dispose.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\dispose\1_Dispose\1_Dispose\bin\Debug\1_Dispose.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\dispose\1_Dispose\1_Dispose\bin\Debug\1_Dispose.exe
+C:\Users\amert\source\repos\cSharpApps\console\dispose\1_Dispose\1_Dispose\bin\Debug\1_Dispose.pdb
+C:\Users\amert\source\repos\cSharpApps\console\dispose\1_Dispose\1_Dispose\obj\Debug\1_Dispose.exe
+C:\Users\amert\source\repos\cSharpApps\console\dispose\1_Dispose\1_Dispose\obj\Debug\1_Dispose.pdb
