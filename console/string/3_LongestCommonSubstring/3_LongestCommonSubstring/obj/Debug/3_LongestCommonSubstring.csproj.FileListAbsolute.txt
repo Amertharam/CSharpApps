@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\string\3_LongestCommonSubstring\3_LongestCommonSubstring\bin\Debug\3_LongestCommonSubstring.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\string\3_LongestCommonSubstring\3_LongestCommonSubstring\bin\Debug\3_LongestCommonSubstring.exe
+C:\Users\amert\source\repos\cSharpApps\console\string\3_LongestCommonSubstring\3_LongestCommonSubstring\bin\Debug\3_LongestCommonSubstring.pdb
+C:\Users\amert\source\repos\cSharpApps\console\string\3_LongestCommonSubstring\3_LongestCommonSubstring\obj\Debug\3_LongestCommonSubstring.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\string\3_LongestCommonSubstring\3_LongestCommonSubstring\obj\Debug\3_LongestCommonSubstring.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\string\3_LongestCommonSubstring\3_LongestCommonSubstring\obj\Debug\3_LongestCommonSubstring.exe
+C:\Users\amert\source\repos\cSharpApps\console\string\3_LongestCommonSubstring\3_LongestCommonSubstring\obj\Debug\3_LongestCommonSubstring.pdb

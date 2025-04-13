@@ -1,0 +1,2 @@
+C:\Users\amert\source\repos\cSharpApps\console\SimpleERPApp\SimpleERPApp\obj\Debug\SimpleERPApp.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\SimpleERPApp\SimpleERPApp\obj\Debug\SimpleERPApp.csproj.CoreCompileInputs.cache
