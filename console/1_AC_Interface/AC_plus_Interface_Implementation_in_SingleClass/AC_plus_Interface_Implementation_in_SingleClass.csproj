@@ -4,15 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A72E9B92-DC65-47A4-8D71-2D25DF021CE2}</ProjectGuid>
+    <ProjectGuid>{E54E8360-F186-4B30-BEAD-A9CC8F21A97A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_1_AC_Interface</RootNamespace>
-    <AssemblyName>1_AC_Interface</AssemblyName>
+    <RootNamespace>AC_plus_Interface_Implementation_in_SingleClass</RootNamespace>
+    <AssemblyName>AC_plus_Interface_Implementation_in_SingleClass</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
