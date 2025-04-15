@@ -1,32 +1,33 @@
 ﻿using LoginApplication.Views;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Input;
 using LoginApplication.Commands;
 using LoginApplication.Databases;
 using System.Windows;
+using LoginApplication.Models;
 
 namespace LoginApplication.ViewModels
 {
-    public class LoginViewModel : INotifyPropertyChanged
+    public class LoginViewModel : ViewModelBase
     {
-        private string username;
-        private string password;
+        //private string username;
+        //private string password;
+        private UserModel _userModel;
+        public UserModel UserModel 
+        {
+            get { return _userModel; }
+            set { _userModel = value; }
+        }
 
         public string Username
         {
-            get => username;
-            set { username = value; OnPropertyChanged(nameof(Username)); }
+            get => UserModel.Username;
+            set { UserModel.Username = value; OnPropertyChanged(nameof(Username)); }
         }
 
         public string Password
         {
-            get => password;
-            set { password = value; OnPropertyChanged(nameof(Password)); }
+            get => UserModel.Password;
+            set { UserModel.Password = value; OnPropertyChanged(nameof(Password)); }
         }
 
         public ICommand LoginCommand { get; }
@@ -36,6 +37,7 @@ namespace LoginApplication.ViewModels
         {
             LoginCommand = new RelayCommand(Login);
             OpenRegisterCommand = new RelayCommand(OpenRegister);
+            UserModel = new UserModel();
         }
 
         private void Login()
@@ -66,11 +68,6 @@ namespace LoginApplication.ViewModels
             registerWindow.Show();
         }
 
-        public event PropertyChangedEventHandler PropertyChanged;
-        protected virtual void OnPropertyChanged(string propertyName)
-        {
-            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
-        }
     }
 
 }

@@ -1,17 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Input;
+﻿using System.Windows.Input;
 using System.Windows;
 using LoginApplication.Commands;
 using LoginApplication.Databases;
 
 namespace LoginApplication.ViewModels
 {
-    public class RegisterViewModel : INotifyPropertyChanged
+    public class RegisterViewModel : ViewModelBase
     {
         private string newUsername;
         private string newPassword;
@@ -57,11 +51,6 @@ namespace LoginApplication.ViewModels
             }
         }
 
-        public event PropertyChangedEventHandler PropertyChanged;
-        protected virtual void OnPropertyChanged(string propertyName)
-        {
-            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
-        }
     }
 
 }

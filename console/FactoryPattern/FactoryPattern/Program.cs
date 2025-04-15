@@ -2,6 +2,9 @@
 
 namespace FactoryPattern
 {
+    //enum
+    public enum AutomationComponent {Sensor,Actuator }
+        
     //abstraction using interface
     public interface IAutomationComponent
     {
@@ -27,13 +30,13 @@ namespace FactoryPattern
     public static class Factory
     {
         //static IAutomationComponent _automationComponent;
-        public static IAutomationComponent GetComponent(string componentName)
+        public static IAutomationComponent GetComponent(AutomationComponent componentName)
         {
             switch (componentName)
             {
-                case "sensor":
+                case AutomationComponent.Sensor:
                     return new Sensor();
-                case "actuator":
+                case AutomationComponent.Actuator:
                     return new Actuator();
                 default:
                     throw new NotImplementedException();
@@ -45,9 +48,9 @@ namespace FactoryPattern
     {
         public static void Main(string[] args)
         {
-            IAutomationComponent automationComponent = Factory.GetComponent("sensor");
+            IAutomationComponent automationComponent = Factory.GetComponent(AutomationComponent.Sensor);
             automationComponent.Operate();
-            automationComponent = Factory.GetComponent("actuator");
+            automationComponent = Factory.GetComponent(AutomationComponent.Actuator);
             automationComponent.Operate();
             Console.ReadKey();
         }

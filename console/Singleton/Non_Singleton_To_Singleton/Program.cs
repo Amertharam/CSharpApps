@@ -11,7 +11,7 @@ namespace Non_Singleton_To_Singleton
     }
 
     //It is called Proxy Pattern or Wrapper Pattern
-    public class SingletonWrapper
+    public sealed class SingletonWrapper
     {
         // Private static field to hold the single instance
         private static NonSingleton _instance;
