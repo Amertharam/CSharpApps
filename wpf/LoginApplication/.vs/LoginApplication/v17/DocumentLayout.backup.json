@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{B0ECBF9E-F732-40DC-BF05-A9DBAC592D51}|LoginApplication\\LoginApplication.csproj|solutionrelative:loginapplication\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0ECBF9E-F732-40DC-BF05-A9DBAC592D51}|LoginApplication\\LoginApplication.csproj|C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\LoginApplication\\loginapplication\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0ECBF9E-F732-40DC-BF05-A9DBAC592D51}|LoginApplication\\LoginApplication.csproj|solutionrelative:loginapplication\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B0ECBF9E-F732-40DC-BF05-A9DBAC592D51}|LoginApplication\\LoginApplication.csproj|C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\LoginApplication\\loginapplication\\views\\welcomewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B0ECBF9E-F732-40DC-BF05-A9DBAC592D51}|LoginApplication\\LoginApplication.csproj|solutionrelative:loginapplication\\views\\welcomewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -30,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "WelcomeWindow.xaml",
               "DocumentMoniker": "C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\LoginApplication\\LoginApplication\\Views\\WelcomeWindow.xaml",
               "RelativeDocumentMoniker": "LoginApplication\\Views\\WelcomeWindow.xaml",
@@ -45,7 +41,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "RegisterWindow.xaml",
               "DocumentMoniker": "C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\LoginApplication\\LoginApplication\\Views\\RegisterWindow.xaml",
               "RelativeDocumentMoniker": "LoginApplication\\Views\\RegisterWindow.xaml",
@@ -56,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\LoginApplication\\LoginApplication\\Views\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "LoginApplication\\Views\\LoginWindow.xaml",
@@ -64,18 +60,6 @@
               "RelativeToolTip": "LoginApplication\\Views\\LoginWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-04-13T08:34:46.719Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\LoginApplication\\LoginApplication\\ViewModels\\RegisterViewModel.cs",
-              "RelativeDocumentMoniker": "LoginApplication\\ViewModels\\RegisterViewModel.cs",
-              "ToolTip": "C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\LoginApplication\\LoginApplication\\ViewModels\\RegisterViewModel.cs",
-              "RelativeToolTip": "LoginApplication\\ViewModels\\RegisterViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T08:31:43.34Z"
             },
             {
               "$type": "Document",

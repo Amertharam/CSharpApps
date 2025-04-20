@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\HighAvailabilityTradingSystem\HighAvailabilityTradingSystem\bin\Debug\HighAvailabilityTradingSystem.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\HighAvailabilityTradingSystem\HighAvailabilityTradingSystem\bin\Debug\HighAvailabilityTradingSystem.exe
+C:\Users\amert\source\repos\cSharpApps\console\HighAvailabilityTradingSystem\HighAvailabilityTradingSystem\bin\Debug\HighAvailabilityTradingSystem.pdb
+C:\Users\amert\source\repos\cSharpApps\console\HighAvailabilityTradingSystem\HighAvailabilityTradingSystem\obj\Debug\HighAvailabilityTradingSystem.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\HighAvailabilityTradingSystem\HighAvailabilityTradingSystem\obj\Debug\HighAvailabilityTradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\HighAvailabilityTradingSystem\HighAvailabilityTradingSystem\obj\Debug\HighAvailabilityTradingSystem.exe
+C:\Users\amert\source\repos\cSharpApps\console\HighAvailabilityTradingSystem\HighAvailabilityTradingSystem\obj\Debug\HighAvailabilityTradingSystem.pdb
