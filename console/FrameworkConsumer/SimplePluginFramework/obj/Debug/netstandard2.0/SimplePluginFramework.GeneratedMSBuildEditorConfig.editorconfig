@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = SimplePluginFramework
+build_property.ProjectDir = C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\SimplePluginFramework\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

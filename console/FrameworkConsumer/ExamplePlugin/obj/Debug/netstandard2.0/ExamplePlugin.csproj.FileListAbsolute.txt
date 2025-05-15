@@ -1,0 +1,14 @@
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\ExamplePlugin\bin\Debug\netstandard2.0\ExamplePlugin.deps.json
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\ExamplePlugin\bin\Debug\netstandard2.0\ExamplePlugin.dll
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\ExamplePlugin\bin\Debug\netstandard2.0\ExamplePlugin.pdb
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\ExamplePlugin\bin\Debug\netstandard2.0\SimplePluginFramework.dll
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\ExamplePlugin\bin\Debug\netstandard2.0\SimplePluginFramework.pdb
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\ExamplePlugin\obj\Debug\netstandard2.0\ExamplePlugin.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\ExamplePlugin\obj\Debug\netstandard2.0\ExamplePlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\ExamplePlugin\obj\Debug\netstandard2.0\ExamplePlugin.AssemblyInfoInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\ExamplePlugin\obj\Debug\netstandard2.0\ExamplePlugin.AssemblyInfo.cs
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\ExamplePlugin\obj\Debug\netstandard2.0\ExamplePlugin.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\ExamplePlugin\obj\Debug\netstandard2.0\ExamplePlugin.sourcelink.json
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\ExamplePlugin\obj\Debug\netstandard2.0\ExampleP.1424FD9D.Up2Date
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\ExamplePlugin\obj\Debug\netstandard2.0\ExamplePlugin.dll
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\ExamplePlugin\obj\Debug\netstandard2.0\ExamplePlugin.pdb

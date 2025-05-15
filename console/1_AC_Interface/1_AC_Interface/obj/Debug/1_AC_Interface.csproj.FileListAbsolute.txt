@@ -5,3 +5,10 @@ C:\Users\amert\source\repos\cSharpApps\console\task\1_AC_Interface\1_AC_Interfac
 C:\Users\amert\source\repos\cSharpApps\console\task\1_AC_Interface\1_AC_Interface\obj\Debug\1_AC_Interface.csproj.CoreCompileInputs.cache
 C:\Users\amert\source\repos\cSharpApps\console\task\1_AC_Interface\1_AC_Interface\obj\Debug\1_AC_Interface.exe
 C:\Users\amert\source\repos\cSharpApps\console\task\1_AC_Interface\1_AC_Interface\obj\Debug\1_AC_Interface.pdb
+C:\Users\amert\source\repos\cSharpApps\console\1_AC_Interface\1_AC_Interface\bin\Debug\1_AC_Interface.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\1_AC_Interface\1_AC_Interface\bin\Debug\1_AC_Interface.exe
+C:\Users\amert\source\repos\cSharpApps\console\1_AC_Interface\1_AC_Interface\bin\Debug\1_AC_Interface.pdb
+C:\Users\amert\source\repos\cSharpApps\console\1_AC_Interface\1_AC_Interface\obj\Debug\1_AC_Interface.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\1_AC_Interface\1_AC_Interface\obj\Debug\1_AC_Interface.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\1_AC_Interface\1_AC_Interface\obj\Debug\1_AC_Interface.exe
+C:\Users\amert\source\repos\cSharpApps\console\1_AC_Interface\1_AC_Interface\obj\Debug\1_AC_Interface.pdb

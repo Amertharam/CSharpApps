@@ -1,13 +1,16 @@
-﻿using System.Threading;
+﻿using System;
+using System.Threading;
 
 namespace ResourceStarvation
 {
     // Example: Starvation due to high-priority threads
     class Program
     {
+        static int LPCount;
+        static int HPCount;
         static void Main()
         {
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < 1; i++)
             {
                 Thread t = new Thread(LowPriorityTask);
                 t.Priority = ThreadPriority.Lowest; // Starved threads
@@ -21,12 +24,12 @@ namespace ResourceStarvation
 
         static void LowPriorityTask()
         {
-            while (true) { /* Does not get enough CPU time */ }
+            while (true) { Console.WriteLine("LP"); LPCount++;/* Does not get enough CPU time */ }
         }
 
         static void HighPriorityTask()
         {
-            while (true) { /* Hogging the CPU */ }
+            while (true) { Console.WriteLine("HP"); HPCount++;/* Hogging the CPU */ }
         }
     }
 

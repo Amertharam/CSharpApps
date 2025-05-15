@@ -1,0 +1,10 @@
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\FrameworkConsumer\bin\Debug\FrameworkConsumer.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\FrameworkConsumer\bin\Debug\FrameworkConsumer.exe
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\FrameworkConsumer\bin\Debug\FrameworkConsumer.pdb
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\FrameworkConsumer\bin\Debug\SimplePluginFramework.dll
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\FrameworkConsumer\bin\Debug\SimplePluginFramework.pdb
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\FrameworkConsumer\obj\Debug\FrameworkConsumer.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\FrameworkConsumer\obj\Debug\FrameworkConsumer.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\FrameworkConsumer\obj\Debug\Framewor.9B98ACE7.Up2Date
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\FrameworkConsumer\obj\Debug\FrameworkConsumer.exe
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\FrameworkConsumer\obj\Debug\FrameworkConsumer.pdb

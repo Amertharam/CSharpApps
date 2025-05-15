@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\Sort\QuickSort\bin\Debug\QuickSort.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\Sort\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\amert\source\repos\cSharpApps\console\Sort\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\amert\source\repos\cSharpApps\console\Sort\QuickSort\obj\Debug\QuickSort.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\Sort\QuickSort\obj\Debug\QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\Sort\QuickSort\obj\Debug\QuickSort.exe
+C:\Users\amert\source\repos\cSharpApps\console\Sort\QuickSort\obj\Debug\QuickSort.pdb

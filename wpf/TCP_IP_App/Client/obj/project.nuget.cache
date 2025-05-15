@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "13sgXr9eID0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\TCP_IP_App\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amert\\.nuget\\packages\\supersimpletcp\\3.0.17\\supersimpletcp.3.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

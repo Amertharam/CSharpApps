@@ -1,0 +1,21 @@
+﻿<Window x:Class="Server.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Server"
+        mc:Ignorable="d"
+        Title="TCP IP Server" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <TextBox x:Name="txtbxIP" HorizontalAlignment="Left" Margin="100,15,0,0" TextWrapping="Wrap" Text="127.0.0.1:9000" VerticalAlignment="Top" Width="500" Height="30" RenderTransformOrigin="0.501,-1.177"/>
+        <Label Content="Server IP :" HorizontalAlignment="Left" Margin="10,15,0,0" VerticalAlignment="Top" Height="30" Width="80"/>
+        <Button x:Name="btnStart" Content="Start Listening" HorizontalAlignment="Left" Margin="609,15,0,0" VerticalAlignment="Top" Height="30" Width="175" Click="btnStart_Click"/>
+        <TextBox x:Name="txtbxInfo" HorizontalAlignment="Left" Height="262" Margin="100,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="490" IsReadOnlyCaretVisible="True" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible" ScrollViewer.CanContentScroll="True" IsReadOnly="True"/>
+        <ListBox x:Name="lstbxClientIP" d:ItemsSource="{d:SampleData ItemCount=0}" Margin="600,85,15,89"/>
+        <TextBox x:Name="txtbxMessage" HorizontalAlignment="Left" Height="29" Margin="100,350,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="492"/>
+        <Button x:Name="btnSend" Content="Send Message" HorizontalAlignment="Left" Height="28" Margin="600,350,0,0" VerticalAlignment="Top" Width="179" Click="btnSend_Click"/>
+        <Label Content="Message :" HorizontalAlignment="Left" Height="30" Margin="10,350,0,0" VerticalAlignment="Top" Width="70"/>
+        <Label Content="Connected Clients :" HorizontalAlignment="Left" Height="27" Margin="608,55,0,0" VerticalAlignment="Top" Width="177"/>
+        <Label Content="Received Text :" HorizontalAlignment="Left" Height="27" Margin="104,52,0,0" VerticalAlignment="Top" Width="177"/>
+    </Grid>
+</Window>

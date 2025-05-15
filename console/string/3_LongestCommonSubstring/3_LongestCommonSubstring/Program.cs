@@ -6,16 +6,15 @@ namespace _3_LongestCommonSubstring
     {
         public static string FindLCS(string str1, string str2) 
         {
-
-            int m = str1.Length;
-            int n = str2.Length;
+            int m = str1.Length; 
+            int n = str2.Length; 
 
             int endIndex = 0;
             int maxLength = 0;
 
             int[,] dp = new int[m + 1, n + 1];
 
-            for (int i = 1; i <+ m; i++)
+            for (int i = 1; i <= m; i++)
             {
                 for (int j = 1; j <= n; j++)
                 {

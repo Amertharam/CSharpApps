@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\CommandBinding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87924F03-914D-4F01-B30E-80FAD41B23A5}|CommandBinding\\CommandBinding.csproj|C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\CommandBinding\\commandbinding\\views\\clientview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{87924F03-914D-4F01-B30E-80FAD41B23A5}|CommandBinding\\CommandBinding.csproj|solutionrelative:commandbinding\\views\\clientview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientView.xaml",
+              "DocumentMoniker": "C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\CommandBinding\\CommandBinding\\Views\\ClientView.xaml",
+              "RelativeDocumentMoniker": "CommandBinding\\Views\\ClientView.xaml",
+              "ToolTip": "C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\CommandBinding\\CommandBinding\\Views\\ClientView.xaml",
+              "RelativeToolTip": "CommandBinding\\Views\\ClientView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T13:32:30.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

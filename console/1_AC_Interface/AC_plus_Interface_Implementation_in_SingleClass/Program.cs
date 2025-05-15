@@ -10,9 +10,9 @@ namespace AC_plus_Interface_Implementation_in_SingleClass
     public class Program : AC, Inf
     {
         //AC Impl
-        public new void print() { Console.WriteLine("I am a AC derived Impl"); }
+        public new void print() { Console.WriteLine("I am a AC derived Impl"); }  // comment this line and observe the output
         //Inf Impl
-        void Inf.print() { Console.WriteLine("I am a Inf Impl"); }
+        void Inf.print() { Console.WriteLine("I am a Inf Impl"); } // comment this line and observe the output
         public static void Main(string[] args)
         {
             Program obj = new Program();

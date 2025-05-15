@@ -1,0 +1,26 @@
+﻿<Window x:Class="BindMultipleSourcesToSingleTarget.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BindMultipleSourcesToSingleTarget"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Label>First Name:</Label>
+        <TextBox Text="{Binding FirstName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+        
+        <Label>Middle Name:</Label>
+        <TextBox Text="{Binding MiddleName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+
+        <Label>Last Name:</Label>
+        <TextBox Text="{Binding LastName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+
+        <Label>Full Name:</Label>
+        <TextBlock Text="{Binding FullName}" Background="Azure"></TextBlock>
+
+        <Button>Add</Button>
+        <ListBox ItemsSource="{Binding Path=MainWindow}" DisplayMemberPath="Firstname"></ListBox>
+
+    </StackPanel>
+</Window>

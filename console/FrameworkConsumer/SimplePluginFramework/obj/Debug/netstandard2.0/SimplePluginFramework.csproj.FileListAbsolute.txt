@@ -1,0 +1,11 @@
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\SimplePluginFramework\bin\Debug\netstandard2.0\SimplePluginFramework.deps.json
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\SimplePluginFramework\bin\Debug\netstandard2.0\SimplePluginFramework.dll
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\SimplePluginFramework\bin\Debug\netstandard2.0\SimplePluginFramework.pdb
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\SimplePluginFramework\obj\Debug\netstandard2.0\SimplePluginFramework.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\SimplePluginFramework\obj\Debug\netstandard2.0\SimplePluginFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\SimplePluginFramework\obj\Debug\netstandard2.0\SimplePluginFramework.AssemblyInfoInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\SimplePluginFramework\obj\Debug\netstandard2.0\SimplePluginFramework.AssemblyInfo.cs
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\SimplePluginFramework\obj\Debug\netstandard2.0\SimplePluginFramework.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\SimplePluginFramework\obj\Debug\netstandard2.0\SimplePluginFramework.sourcelink.json
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\SimplePluginFramework\obj\Debug\netstandard2.0\SimplePluginFramework.dll
+C:\Users\amert\source\repos\cSharpApps\console\FrameworkConsumer\SimplePluginFramework\obj\Debug\netstandard2.0\SimplePluginFramework.pdb

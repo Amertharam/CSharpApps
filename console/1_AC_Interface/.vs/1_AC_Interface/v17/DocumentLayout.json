@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\1_AC_Interface\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A72E9B92-DC65-47A4-8D71-2D25DF021CE2}|1_AC_Interface\\1_AC_Interface.csproj|c:\\users\\amert\\source\\repos\\csharpapps\\console\\1_ac_interface\\1_ac_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A72E9B92-DC65-47A4-8D71-2D25DF021CE2}|1_AC_Interface\\1_AC_Interface.csproj|solutionrelative:1_ac_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E54E8360-F186-4B30-BEAD-A9CC8F21A97A}|AC_plus_Interface_Implementation_in_SingleClass\\AC_plus_Interface_Implementation_in_SingleClass.csproj|c:\\users\\amert\\source\\repos\\csharpapps\\console\\1_ac_interface\\ac_plus_interface_implementation_in_singleclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54E8360-F186-4B30-BEAD-A9CC8F21A97A}|AC_plus_Interface_Implementation_in_SingleClass\\AC_plus_Interface_Implementation_in_SingleClass.csproj|solutionrelative:ac_plus_interface_implementation_in_singleclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\1_AC_Interface\\1_AC_Interface\\Program.cs",
-              "RelativeDocumentMoniker": "1_AC_Interface\\Program.cs",
-              "ToolTip": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\1_AC_Interface\\1_AC_Interface\\Program.cs",
-              "RelativeToolTip": "1_AC_Interface\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBEAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\1_AC_Interface\\AC_plus_Interface_Implementation_in_SingleClass\\Program.cs",
+              "RelativeDocumentMoniker": "AC_plus_Interface_Implementation_in_SingleClass\\Program.cs",
+              "ToolTip": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\1_AC_Interface\\AC_plus_Interface_Implementation_in_SingleClass\\Program.cs",
+              "RelativeToolTip": "AC_plus_Interface_Implementation_in_SingleClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T11:04:22.71Z",
+              "WhenOpened": "2025-04-27T07:00:25.569Z",
               "EditorCaption": ""
             }
           ]

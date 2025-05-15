@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\generics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFDC3018-E1BC-401F-997F-CD6AB27C702C}|generics\\genericsMethod.csproj|c:\\users\\amert\\source\\repos\\csharpapps\\console\\generics\\generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFDC3018-E1BC-401F-997F-CD6AB27C702C}|generics\\genericsMethod.csproj|solutionrelative:generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFDC3018-E1BC-401F-997F-CD6AB27C702C}|generics\\genericsMethods.csproj|C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\generics\\generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFDC3018-E1BC-401F-997F-CD6AB27C702C}|generics\\genericsMethods.csproj|solutionrelative:generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E113DC6-2115-4394-A033-1529A1EC37C2}|genericsClass\\genericsClass.csproj|c:\\users\\amert\\source\\repos\\csharpapps\\console\\generics\\genericsclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E113DC6-2115-4394-A033-1529A1EC37C2}|genericsClass\\genericsClass.csproj|solutionrelative:genericsclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\generics\\generics\\Program.cs",
-              "RelativeDocumentMoniker": "generics\\Program.cs",
-              "ToolTip": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\generics\\generics\\Program.cs",
-              "RelativeToolTip": "generics\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAuAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\generics\\genericsClass\\Program.cs",
+              "RelativeDocumentMoniker": "genericsClass\\Program.cs",
+              "ToolTip": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\generics\\genericsClass\\Program.cs",
+              "RelativeToolTip": "genericsClass\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T06:15:18.421Z",
+              "WhenOpened": "2025-05-06T07:20:35.542Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\generics\\generics\\Program.cs",
-              "RelativeDocumentMoniker": "generics\\Program.cs",
-              "ToolTip": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\generics\\generics\\Program.cs",
-              "RelativeToolTip": "generics\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T06:02:25.432Z"
             }
           ]
         }

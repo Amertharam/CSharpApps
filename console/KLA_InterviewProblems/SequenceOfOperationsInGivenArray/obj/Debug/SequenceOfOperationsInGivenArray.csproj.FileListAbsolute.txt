@@ -1,0 +1,7 @@
+C:\Users\amert\source\repos\cSharpApps\console\KLA_InterviewProblems\SequenceOfOperationsInGivenArray\bin\Debug\SequenceOfOperationsInGivenArray.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\KLA_InterviewProblems\SequenceOfOperationsInGivenArray\bin\Debug\SequenceOfOperationsInGivenArray.exe
+C:\Users\amert\source\repos\cSharpApps\console\KLA_InterviewProblems\SequenceOfOperationsInGivenArray\bin\Debug\SequenceOfOperationsInGivenArray.pdb
+C:\Users\amert\source\repos\cSharpApps\console\KLA_InterviewProblems\SequenceOfOperationsInGivenArray\obj\Debug\SequenceOfOperationsInGivenArray.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\KLA_InterviewProblems\SequenceOfOperationsInGivenArray\obj\Debug\SequenceOfOperationsInGivenArray.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\KLA_InterviewProblems\SequenceOfOperationsInGivenArray\obj\Debug\SequenceOfOperationsInGivenArray.exe
+C:\Users\amert\source\repos\cSharpApps\console\KLA_InterviewProblems\SequenceOfOperationsInGivenArray\obj\Debug\SequenceOfOperationsInGivenArray.pdb

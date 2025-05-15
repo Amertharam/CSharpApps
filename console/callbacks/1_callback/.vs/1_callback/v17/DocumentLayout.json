@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\callbacks\\1_callback\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13B717B1-25C4-406C-A168-4CDFF1E7BD72}|CallbackBasic\\CallbackBasic.csproj|c:\\users\\amert\\source\\repos\\csharpapps\\console\\callbacks\\1_callback\\callbackbasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13B717B1-25C4-406C-A168-4CDFF1E7BD72}|CallbackBasic\\CallbackBasic.csproj|solutionrelative:callbackbasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{741C5391-63D1-4ED0-B222-6378BA6EDDA1}|1_callback\\1_callback.csproj|C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\callbacks\\1_callback\\1_callback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{741C5391-63D1-4ED0-B222-6378BA6EDDA1}|1_callback\\1_callback.csproj|solutionrelative:1_callback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -24,24 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\callbacks\\1_callback\\CallbackBasic\\Program.cs",
-              "RelativeDocumentMoniker": "CallbackBasic\\Program.cs",
-              "ToolTip": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\callbacks\\1_callback\\CallbackBasic\\Program.cs",
-              "RelativeToolTip": "CallbackBasic\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T07:38:04.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\callbacks\\1_callback\\1_callback\\Program.cs",
               "RelativeDocumentMoniker": "1_callback\\Program.cs",
               "ToolTip": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\callbacks\\1_callback\\1_callback\\Program.cs",
               "RelativeToolTip": "1_callback\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T15:46:15.061Z",
               "EditorCaption": ""

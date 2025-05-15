@@ -14,11 +14,11 @@ namespace FoundDuplicatesInTheGivenLists
             {
                 foreach (var item2 in lst2)
                 {
-                    if (item1==item2)
+                    if (item1 == item2)
                     {
-                        if (!ResultList.Contains(item1))
+                        if (!ResultList.Contains(item2))
                         {
-                            ResultList.Add(item1);
+                            ResultList.Add(item2);
                         }                   
                     }
                 }
