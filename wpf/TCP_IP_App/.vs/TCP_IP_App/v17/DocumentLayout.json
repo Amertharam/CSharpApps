@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{201C9685-4574-41D2-8A36-519328990B7D}|Server\\Server.csproj|solutionrelative:server\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E608879E-C712-4753-8AC3-7E7481DE1267}|Client\\Client.csproj|c:\\users\\amert\\source\\repos\\csharpapps\\wpf\\tcp_ip_app\\client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E608879E-C712-4753-8AC3-7E7481DE1267}|Client\\Client.csproj|solutionrelative:client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E608879E-C712-4753-8AC3-7E7481DE1267}|Client\\Client.csproj|c:\\users\\amert\\source\\repos\\csharpapps\\wpf\\tcp_ip_app\\client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E608879E-C712-4753-8AC3-7E7481DE1267}|Client\\Client.csproj|solutionrelative:client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,20 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\TCP_IP_App\\Client\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Client\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\TCP_IP_App\\Client\\MainWindow.xaml",
+              "RelativeToolTip": "Client\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-15T10:45:54.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\TCP_IP_App\\Client\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Client\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\TCP_IP_App\\Client\\MainWindow.xaml.cs",
               "RelativeToolTip": "Client\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T09:30:05.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T09:30:05.923Z"
             },
             {
               "$type": "Document",
@@ -41,7 +55,7 @@
               "RelativeDocumentMoniker": "Server\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\amert\\source\\repos\\cSharpApps\\wpf\\TCP_IP_App\\Server\\MainWindow.xaml.cs",
               "RelativeToolTip": "Server\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T09:30:01.594Z",
               "EditorCaption": ""

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\SimpleOpcUaServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{471E5F3E-3E39-4B60-A969-04368733E11C}|SimpleOpcUaServer.csproj|c:\\users\\amert\\source\\repos\\csharpapps\\console\\simpleopcuaserver\\simpleuaserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471E5F3E-3E39-4B60-A969-04368733E11C}|SimpleOpcUaServer.csproj|solutionrelative:simpleuaserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471E5F3E-3E39-4B60-A969-04368733E11C}|SimpleOpcUaServer.csproj|c:\\users\\amert\\source\\repos\\csharpapps\\console\\simpleopcuaserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471E5F3E-3E39-4B60-A969-04368733E11C}|SimpleOpcUaServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleUaServer.cs",
+              "DocumentMoniker": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\SimpleOpcUaServer\\SimpleUaServer.cs",
+              "RelativeDocumentMoniker": "SimpleUaServer.cs",
+              "ToolTip": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\SimpleOpcUaServer\\SimpleUaServer.cs*",
+              "RelativeToolTip": "SimpleUaServer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:51:45.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\SimpleOpcUaServer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\amert\\source\\repos\\cSharpApps\\console\\SimpleOpcUaServer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:50:26.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
