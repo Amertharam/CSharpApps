@@ -1,0 +1,11 @@
+C:\Users\amert\source\repos\cSharpApps\console\OPC_UA_Server\OPC_UA_Server\bin\Debug\OPC_UA_Server.exe.config
+C:\Users\amert\source\repos\cSharpApps\console\OPC_UA_Server\OPC_UA_Server\bin\Debug\OPC_UA_Server.exe
+C:\Users\amert\source\repos\cSharpApps\console\OPC_UA_Server\OPC_UA_Server\bin\Debug\OPC_UA_Server.pdb
+C:\Users\amert\source\repos\cSharpApps\console\OPC_UA_Server\OPC_UA_Server\bin\Debug\UnifiedAutomation.UaBase.dll
+C:\Users\amert\source\repos\cSharpApps\console\OPC_UA_Server\OPC_UA_Server\bin\Debug\UnifiedAutomation.UaBase.Windows.dll
+C:\Users\amert\source\repos\cSharpApps\console\OPC_UA_Server\OPC_UA_Server\bin\Debug\UnifiedAutomation.UaServer.dll
+C:\Users\amert\source\repos\cSharpApps\console\OPC_UA_Server\OPC_UA_Server\obj\Debug\OPC_UA_Server.csproj.AssemblyReference.cache
+C:\Users\amert\source\repos\cSharpApps\console\OPC_UA_Server\OPC_UA_Server\obj\Debug\OPC_UA_Server.csproj.CoreCompileInputs.cache
+C:\Users\amert\source\repos\cSharpApps\console\OPC_UA_Server\OPC_UA_Server\obj\Debug\OPC_UA_S.42040F07.Up2Date
+C:\Users\amert\source\repos\cSharpApps\console\OPC_UA_Server\OPC_UA_Server\obj\Debug\OPC_UA_Server.exe
+C:\Users\amert\source\repos\cSharpApps\console\OPC_UA_Server\OPC_UA_Server\obj\Debug\OPC_UA_Server.pdb

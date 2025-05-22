@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Variables>
+  <Variable id="Variable1" name="Temperature" value="10.1" />
+  <Variable id="Variable2" name="Pressure" value="200.22" />
+  <Variable id="Variable3" name="Humidity" value="3000.333" />
+</Variables>
